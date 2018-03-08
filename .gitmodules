@@ -1,0 +1,3 @@
+[submodule "private/Vulcan"]
+	path = private/Vulcan
+	url = https://github.com/VulcanJS/Vulcan.git
